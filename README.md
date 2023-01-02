@@ -1,6 +1,5 @@
 # GoogleConnect
 GoogleConnect is a Google-Apps-Script script to sync your google sheets to google calendar.
-
 This script will be used to import events written in Google Sheets to your Google Calendar. 
 
 The script is based on this google sheet format:
